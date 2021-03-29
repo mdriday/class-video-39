@@ -415,6 +415,9 @@
         margin-right: 10px;
         margin-left: 10px;
     }
+    .con-frm .w50 {
+        width: 46%;
+    }
 }
 
 .header-menu samp {
@@ -535,6 +538,10 @@
         font-size: 12px;
         color:red;
         font-weight: 500;
+    }
+    .con-frm .w50 {
+        width: 46%;
+        margin: 20px 0;
     }
 }
 
